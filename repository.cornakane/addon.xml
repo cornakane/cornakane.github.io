@@ -4,7 +4,7 @@
         <dir minversion="19.0">
             <info compressed="false">https://cornakane.github.io/addons.xml</info>
             <checksum>https://cornakane.github.io/addons.xml.md5</checksum>
-            <datadir zip="true">https://cornakane.github.io/Zips</datadir>
+            <datadir zip="true">https://cornakane.github.io/zips</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
